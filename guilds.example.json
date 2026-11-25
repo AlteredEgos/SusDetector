@@ -1,0 +1,17 @@
+{
+  "guilds": [
+    {
+      "guildId": "111111111111111111",
+      "alertChannelId": "222222222222222222",
+      "roleId": "333333333333333333",
+      "deleteWindowSeconds": 10,
+      "mode": "enforce"
+    },
+    {
+      "guildId": "444444444444444444",
+      "alertChannelId": "555555555555555555",
+      "deleteWindowSeconds": 10,
+      "mode": "alert"
+    }
+  ]
+}
